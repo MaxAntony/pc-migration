@@ -28,4 +28,8 @@ config add dconf-backup.conf
 config push origin master
 ```
 
-##
+## backup de datos de extensiones del navegador
+
+- session budy
+- adblock
+- enhancer for youtube
